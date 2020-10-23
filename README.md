@@ -3,12 +3,16 @@
 ## Books' Code
 - [再強一點：用 Go語言完成六個大型專案](https://github.com/go-programming-tour-book)、[作者 Github](https://github.com/eddycjy/)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
-- [go-zero-to-hero](https://github.com/jensoncs/go-zero-to-hero)
 - [深入淺出 Go](https://github.com/headfirstgo)
+
+## Course's Code
+- [Learn How To Code: Google's Go (golang) Programming Language](https://github.com/GoesToEleven/GolangTraining)、[Google Docs](https://docs.google.com/document/d/1ckYpi6hcRkaBUEk975f54oGsHYHu7GhzOk7-nOrkNxo/edit#)
+- [go-training/workshop-20200817](https://github.com/go-training/workshop-20200817)
+- [go-training/workshop-20200831](https://github.com/go-training/workshop-20200831)
+- [go-zero-to-hero](https://github.com/jensoncs/go-zero-to-hero)
 
 ## Learning Github
 - [awesome-go](https://github.com/avelino/awesome-go)
-- [go-training/workshop-20200817](https://github.com/go-training/workshop-20200817)、[go-training/workshop-20200831](https://github.com/go-training/workshop-20200831)
 - [gshanbhag525/GoProgramming](https://github.com/gshanbhag525/GoProgramming)、[Youtube](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)
 - [go-training/training](https://github.com/go-training/training)
 - [Go 語言參考手冊](https://github.com/saberuster/Go-Language-Specification)
