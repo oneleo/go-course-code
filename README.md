@@ -36,8 +36,9 @@
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
 - [Go 語言參考手冊](https://github.com/saberuster/Go-Language-Specification)
 
-## Resource: Golang Resource Github
+## Resource: Golang Resource
 - [awesome-go](https://github.com/avelino/awesome-go)
+- [Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
 
 ## Resource: Free Video Course Link:
 - [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
