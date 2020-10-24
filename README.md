@@ -14,6 +14,8 @@
 ## Go Physical book Code
 - [再強一點：用 Go語言完成六個大型專案](https://github.com/go-programming-tour-book)、[作者 Github](https://github.com/eddycjy/)
 - [深入淺出 Go](https://github.com/headfirstgo)
+- [The Go Programming Language](https://github.com/adonovan/gopl.io/)
+- [Go 語言高級編程](https://github.com/chai2010/advanced-go-programming-book)
 
 ## Go Ebook Code
 - [Learn-Go-in-3-Hours](https://github.com/PacktPublishing/Learn-Go-in-3-Hours)
@@ -31,18 +33,50 @@
 - [Building-Microservices-with-Go-Second-Edition](https://github.com/PacktPublishing/Building-Microservices-with-Go-Second-Edition)
 - [Go-Crash-Course](https://github.com/PacktPublishing/Go-Crash-Course)
 - [Programming-Microcontrollers-and-WebAssembly-with-TinyGo](https://github.com/PacktPublishing/Programming-Microcontrollers-and-WebAssembly-with-TinyGo)
+- [Hands-On-Full-Stack-Development-with-Go](https://github.com/PacktPublishing/Hands-On-Full-Stack-Development-with-Go)
+- [Go Recipes](https://github.com/apress/go-recipes)
+- [Network Programming with Go](https://github.com/apress/network-prog-with-go)
 
 ## Resource: Free Books
-- [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+- [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)、[正體中文版](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh-tw/preface.md)
 - [Go 語言參考手冊](https://github.com/saberuster/Go-Language-Specification)
+- [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)、[Youtube](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4)、[Code](https://github.com/thewhitetulip/Tasks)
+- [The Little Go Book](https://github.com/karlseguin/the-little-go-book)、[正體中文版](https://github.com/kevingo/the-little-go-book)、[PDF Version](https://www.openmymind.net/assets/go/go.pdf)
+- [Go by Example](https://gobyexample.com/)
+- [An Introduction to Programming in Go](http://www.golang-book.com/books/intro)、[PDF Version](http://www.golang-book.com/public/pdf/gobook.pdf)
+- [Go Bootcamp]()、[PDF Version](https://www.softcover.io/download/88e295ad/GoBootcamp/ebooks/GoBootcamp.pdf)
+- [Learning Go](https://www.miek.nl/go/)、[Markdown Version](https://github.com/miekg/learninggo)
+- [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
+- [Go in Action](https://www.manning.com/books/go-in-action#toc)
+- [Programming in Go: Creating Applications for the 21st Century]()
+- [Get Programming with Go](https://www.manning.com/books/get-programming-with-go#toc)
+- [Go in Practice](https://www.manning.com/books/go-in-practice#toc)
+- [Go 語言四十二章經](https://github.com/ffhelicopter/Go42)
+- [Go 編程指南](https://github.com/chai2010/go2-book)
+- [Go 語言實戰：編寫可維護 Go 語言代碼建議](https://github.com/llitfkitfk/go-best-practice)
+- [Go 語言標準庫](http://books.studygolang.com/The-Golang-Standard-Library-by-Example/)、[Code](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
+- [Go 入門指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
 
 ## Resource: Golang Resources
+- [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
 - [awesome-go](https://github.com/avelino/awesome-go)
+- [Go 資源大全中文版](https://github.com/jobbole/awesome-go-cn)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#go)
 - [Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
+- [Go 夜讀](https://github.com/talkgo/night)
+- [GoBooks](https://github.com/dariubs/GoBooks)
+- [Go 資源精選中文版](https://github.com/chai2010/awesome-go-zh)
+- [Go 語言學習資料與社區索引](https://github.com/Unknwon/go-study-index)
+- [Go Books](https://github.com/golang/go/wiki/Books)
 
 ## Resource: Free Video Course Link:
 - [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
+- [Go 編程基礎](https://github.com/Unknwon/go-fundamental-programming)
+- [Go Web 基礎](https://github.com/Unknwon/go-web-foundation)
+- [Go 名庫講解](https://github.com/Unknwon/go-rock-libraries-showcases)
 
-## Resource: Go Play Ground
-- [official](https://play.golang.org/)
-- [goplay](https://goplay.tools/)
+## Resource: Go Playground
+- [Go 官方 Playground](https://play.golang.org/)
+- [gpgsync](https://gpgsync.herokuapp.com/)、[Source Code](https://github.com/syumai/gpgsync)、[Source Code 2](https://github.com/syumai/go-playground-custom)
+- [goplay](https://goplay.tools/)、[Source Code](https://github.com/x1unix/go-playground)
+- [goplay.space](https://goplay.space)
