@@ -41,3 +41,7 @@
 
 ## Resource: Free Video Course Link:
 - [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
+
+## Resource: Go Play Ground
+- [official](https://play.golang.org/)
+- [goplay](https://goplay.tools/)
