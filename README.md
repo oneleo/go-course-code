@@ -36,7 +36,7 @@
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
 - [Go 語言參考手冊](https://github.com/saberuster/Go-Language-Specification)
 
-## Resource: Golang Resource
+## Resource: Golang Resources
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
 
