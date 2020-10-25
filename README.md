@@ -1,4 +1,7 @@
-# go-course-code
+# Go Course Code
+ 這邊主要收集了初學者面向的熱門的收費／付費 Go 語言電子書或實體書裡頭用的程式碼 Github 位置
+ 另外還收集了學習 Go 語言的免費電子書和免費教學影片觀看位置
+ 這邊將會經常更新裡頭的內容，若您喜歡的話，可以將本 Repository 加為 Star，感謝您！
 
 ## Online Course's Code
 - [Udemy - Learn How To Code: Google's Go (golang) Programming Language](https://github.com/GoesToEleven/GolangTraining)、[Google Docs](https://docs.google.com/document/d/1ckYpi6hcRkaBUEk975f54oGsHYHu7GhzOk7-nOrkNxo/edit#)
