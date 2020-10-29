@@ -73,6 +73,7 @@
 - [Go Books](https://github.com/golang/go/wiki/Books)
 - [懶咪學編程](https://c.lanmit.com/bianchengkaifa/go/)
 - [GoF 設計模式](https://github.com/qiualiang/gof)、[元閏子 - 使用 Go 實現 GoF 的 23 種設計模式](https://www.zhihu.com/column/c_1179706510757838848)、[莫回首 - Go 設計模式](https://www.zhihu.com/column/mohuishou)
+- [*李培冠博客 - Golang 系列筆記目錄](https://lpgit.com/p/115)
 
 ## Resource: Free Video Course Link:
 - [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
