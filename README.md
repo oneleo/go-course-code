@@ -72,7 +72,7 @@
 - [Go 語言學習資料與社區索引](https://github.com/Unknwon/go-study-index)
 - [Go Books](https://github.com/golang/go/wiki/Books)
 - [懶咪學編程](https://c.lanmit.com/bianchengkaifa/go/)
-- [GoF 設計模式](https://github.com/qiualiang/gof)、[使用 Go 實現 GoF 的 23 種設計模式（一）](https://zhuanlan.zhihu.com/p/177025599)、[使用 Go 實現 GoF 的 23 種設計模式（二）](https://zhuanlan.zhihu.com/p/195170819)、[使用 Go 實現 GoF 的 23 種設計模式（三）](https://zhuanlan.zhihu.com/p/220496173)
+- [GoF 設計模式](https://github.com/qiualiang/gof)、[元閏子 - 使用 Go 實現 GoF 的 23 種設計模式](https://www.zhihu.com/column/c_1179706510757838848)、[莫回首 - Go 設計模式](https://www.zhihu.com/column/mohuishou)
 
 ## Resource: Free Video Course Link:
 - [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
