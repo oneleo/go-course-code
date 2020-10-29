@@ -77,6 +77,7 @@
 - [Go 編程基礎](https://github.com/Unknwon/go-fundamental-programming)
 - [Go Web 基礎](https://github.com/Unknwon/go-web-foundation)
 - [Go 名庫講解](https://github.com/Unknwon/go-rock-libraries-showcases)
+- [Learn Go Programming - Golang Tutorial for Beginners](https://youtu.be/YS4e4q9oBaU)
 
 ## Resource: Go Playground
 - [Go 官方 Playground](https://play.golang.org/)
