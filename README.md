@@ -19,6 +19,7 @@
 - [深入淺出 Go](https://github.com/headfirstgo)
 - [The Go Programming Language](https://github.com/adonovan/gopl.io/)
 - [Go 語言高級編程](https://github.com/chai2010/advanced-go-programming-book)
+- [Programming in Go: Creating Applications for the 21st Century](https://github.com/misheska/goeg)
 
 ## Go Ebook Code
 - [Learn-Go-in-3-Hours](https://github.com/PacktPublishing/Learn-Go-in-3-Hours)
@@ -47,11 +48,10 @@
 - [The Little Go Book](https://github.com/karlseguin/the-little-go-book)、[正體中文版](https://github.com/kevingo/the-little-go-book)、[PDF Version](https://www.openmymind.net/assets/go/go.pdf)
 - [Go by Example](https://gobyexample.com/)
 - [An Introduction to Programming in Go](http://www.golang-book.com/books/intro)、[PDF Version](http://www.golang-book.com/public/pdf/gobook.pdf)
-- [Go Bootcamp]()、[PDF Version](https://www.softcover.io/download/88e295ad/GoBootcamp/ebooks/GoBootcamp.pdf)
+- [Go Bootcamp](http://www.golangbootcamp.com/book)、[PDF Version](https://www.softcover.io/download/88e295ad/GoBootcamp/ebooks/GoBootcamp.pdf)
 - [Learning Go](https://www.miek.nl/go/)、[Markdown Version](https://github.com/miekg/learninggo)
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
 - [Go in Action](https://www.manning.com/books/go-in-action#toc)
-- [Programming in Go: Creating Applications for the 21st Century]()
 - [Get Programming with Go](https://www.manning.com/books/get-programming-with-go#toc)
 - [Go in Practice](https://www.manning.com/books/go-in-practice#toc)
 - [Go 語言四十二章經](https://github.com/ffhelicopter/Go42)
@@ -59,6 +59,7 @@
 - [Go 語言實戰：編寫可維護 Go 語言代碼建議](https://github.com/llitfkitfk/go-best-practice)
 - [Go 語言標準庫](http://books.studygolang.com/The-Golang-Standard-Library-by-Example/)、[Code](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 - [Go 入門指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
+- [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
 
 ## Resource: Golang Resources
 - [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
@@ -75,6 +76,14 @@
 - [GoF 設計模式](https://github.com/qiualiang/gof)、[元閏子 - 使用 Go 實現 GoF 的 23 種設計模式](https://www.zhihu.com/column/c_1179706510757838848)、[莫回首 - Go 設計模式](https://www.zhihu.com/column/mohuishou)
 - [*李培冠博客 - Golang 系列筆記目錄](https://lpgit.com/p/115)
 - [Go 程式語言開發實作環境說明](https://gist.github.com/doggy8088/622fe1d8901c646f97f8cb9901023e39?fbclid=IwAR0u02UlpoySOT55j-tC3Z0tCJyXi45WxkWpNKHWYBmRI-pIpcYIFKwOjx0)
+- [Golang Taiwan Gathering](https://github.com/golangtw/GolangTaiwanGathering)
+- [小惡魔 – 電腦技術 – 工作筆記 – AppleBOY](https://blog.wu-boy.com/)
+- [Blog E - Evan Lin](http://www.evanlin.com/)
+- [Go In 5 Minutes](https://www.goin5minutes.com/screencasts/)
+- [Gopher Academy](https://www.youtube.com/c/GopherAcademy)
+- [飛雪無情的博客](https://www.flysnow.org/)
+- [Go 語言中文網](https://studygolang.com/)
+- [SegmentFault 社區 - Golang](https://segmentfault.com/t/golang)
 
 ## Resource: Free Video Course Link:
 - [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
@@ -82,6 +91,7 @@
 - [Go Web 基礎](https://github.com/Unknwon/go-web-foundation)
 - [Go 名庫講解](https://github.com/Unknwon/go-rock-libraries-showcases)
 - [Learn Go Programming - Golang Tutorial for Beginners](https://youtu.be/YS4e4q9oBaU)
+- [Golang: How to create a JWT authenticated REST APIs with Golang](https://www.youtube.com/playlist?list=PLiCVMw2RdtGcZt0bTRHxxUyTbJ8JR_i7y)
 
 ## Resource: Go Playground
 - [Go 官方 Playground](https://play.golang.org/)
