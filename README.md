@@ -85,6 +85,7 @@
 - [Go 語言中文網](https://studygolang.com/)
 - [SegmentFault 社區 - Golang](https://segmentfault.com/t/golang)
 - [標準 Go 專案目錄結構](https://github.com/golang-standards/project-layout)
+- [Go talks](https://talks.golang.org/)、[Github](https://github.com/golang/talks)
 
 ## Resource: Free Video Course Link:
 - [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
