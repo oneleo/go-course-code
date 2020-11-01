@@ -42,7 +42,7 @@
 - [Network Programming with Go](https://github.com/apress/network-prog-with-go)
 
 ## Resource: Free Books
-- [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)、[正體中文版](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh-tw/preface.md)
+- [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)、[正體中文版](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh-tw/preface.md)、[保哥講解](https://willh.gitbook.io/build-web-application-with-golang-zhtw/)
 - [Go 語言參考手冊](https://github.com/saberuster/Go-Language-Specification)
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)、[Youtube](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4)、[Code](https://github.com/thewhitetulip/Tasks)
 - [The Little Go Book](https://github.com/karlseguin/the-little-go-book)、[正體中文版](https://github.com/kevingo/the-little-go-book)、[PDF Version](https://www.openmymind.net/assets/go/go.pdf)
@@ -60,6 +60,7 @@
 - [Go 語言標準庫](http://books.studygolang.com/The-Golang-Standard-Library-by-Example/)、[Code](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 - [Go 入門指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
 - [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
+
 
 ## Resource: Golang Resources
 - [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
