@@ -101,3 +101,4 @@
 - [gpgsync](https://gpgsync.herokuapp.com/)、[Source Code](https://github.com/syumai/gpgsync)、[Source Code 2](https://github.com/syumai/go-playground-custom)
 - [goplay](https://goplay.tools/)、[Source Code](https://github.com/x1unix/go-playground)
 - [goplay.space](https://goplay.space)
+- [go-wasm](https://go-wasm.johnstarich.com/)
