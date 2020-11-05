@@ -42,6 +42,7 @@
 - [Network Programming with Go](https://github.com/apress/network-prog-with-go)
 
 ## Resource: Free Books
+- [Go 語言官方教學](https://tour.golang.org/list)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)、[正體中文版](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh-tw/preface.md)、[保哥講解](https://willh.gitbook.io/build-web-application-with-golang-zhtw/)
 - [Go 語言參考手冊](https://github.com/saberuster/Go-Language-Specification)
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)、[Youtube](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4)、[Code](https://github.com/thewhitetulip/Tasks)
@@ -61,13 +62,13 @@
 - [Go 入門指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
 - [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
 
-
 ## Resource: Golang Resources
+- [*Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
+- [*李培冠博客 - Golang 系列筆記目錄](https://lpgit.com/p/115)
 - [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [Go 資源大全中文版](https://github.com/jobbole/awesome-go-cn)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#go)
-- [Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
 - [Go 夜讀](https://github.com/talkgo/night)
 - [GoBooks](https://github.com/dariubs/GoBooks)
 - [Go 資源精選中文版](https://github.com/chai2010/awesome-go-zh)
@@ -75,7 +76,6 @@
 - [Go Books](https://github.com/golang/go/wiki/Books)
 - [懶咪學編程](https://c.lanmit.com/bianchengkaifa/go/)
 - [GoF 設計模式](https://github.com/qiualiang/gof)、[元閏子 - 使用 Go 實現 GoF 的 23 種設計模式](https://www.zhihu.com/column/c_1179706510757838848)、[莫回首 - Go 設計模式](https://www.zhihu.com/column/mohuishou)
-- [*李培冠博客 - Golang 系列筆記目錄](https://lpgit.com/p/115)
 - [Go 程式語言開發實作環境說明](https://gist.github.com/doggy8088/622fe1d8901c646f97f8cb9901023e39?fbclid=IwAR0u02UlpoySOT55j-tC3Z0tCJyXi45WxkWpNKHWYBmRI-pIpcYIFKwOjx0)
 - [Golang Taiwan Gathering](https://github.com/golangtw/GolangTaiwanGathering)
 - [小惡魔 – 電腦技術 – 工作筆記 – AppleBOY](https://blog.wu-boy.com/)
@@ -86,9 +86,12 @@
 - [Go 語言中文網](https://studygolang.com/)
 - [SegmentFault 社區 - Golang](https://segmentfault.com/t/golang)
 - [標準 Go 專案目錄結構](https://github.com/golang-standards/project-layout)
+- [從範本創建專案結構](https://github.com/tmrts/boilr)
 - [Go talks](https://talks.golang.org/)、[Github](https://github.com/golang/talks)
+- [Practice Problem Solving in Golang](https://shareablecode.com/browse/tags/golang+codingchallenge)
 
 ## Resource: Free Video Course Link:
+- [【韓順平】Go語言零基礎教程](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFWlwItS-iI3C-4jeARUNjq)
 - [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
 - [Go 編程基礎](https://github.com/Unknwon/go-fundamental-programming)
 - [Go Web 基礎](https://github.com/Unknwon/go-web-foundation)
