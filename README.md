@@ -43,7 +43,7 @@
 
 ## Resource: Free Books
 - [Go 語言官方教學](https://tour.golang.org/list)
-- [Golang Developer Roadmap](https://github.com/sangam14/GopherLabs)
+- [*Golang Developer Roadmap](https://gopherlabs.kubedaily.com/)、[Github](https://github.com/sangam14/GopherLabs)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)、[正體中文版](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh-tw/preface.md)、[保哥講解](https://willh.gitbook.io/build-web-application-with-golang-zhtw/)
 - [Go 語言參考手冊](https://github.com/saberuster/Go-Language-Specification)
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)、[Youtube](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4)、[Code](https://github.com/thewhitetulip/Tasks)
