@@ -9,6 +9,7 @@
 - [Udemy - Go: The Complete Developer's Guide](https://github.com/StephenGrider/GoCasts)
 - [GoesToEleven/golang-web-dev](https://github.com/GoesToEleven/golang-web-dev)
 - [gshanbhag525/GoProgramming](https://github.com/gshanbhag525/GoProgramming)、[Youtube](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)
+- [go-training/workshop-20201111](https://github.com/go-training/workshop-20201111)
 - [go-training/workshop-20200817](https://github.com/go-training/workshop-20200817)
 - [go-training/workshop-20200831](https://github.com/go-training/workshop-20200831)
 - [go-training/training](https://github.com/go-training/training)
