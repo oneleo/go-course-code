@@ -49,7 +49,7 @@
 - [Go 語言參考手冊](https://github.com/saberuster/Go-Language-Specification)
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)、[Youtube](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4)、[Code](https://github.com/thewhitetulip/Tasks)
 - [The Little Go Book](https://github.com/karlseguin/the-little-go-book)、[正體中文版](https://github.com/kevingo/the-little-go-book)、[PDF Version](https://www.openmymind.net/assets/go/go.pdf)
-- [Go by Example](https://gobyexample.com/)
+- [2020/08/23 - Go by Example](https://gobyexample.com/)、[中文翻譯](https://learnku.com/docs/gobyexample/2020)、[Github](https://github.com/mmcgrana/gobyexample)
 - [An Introduction to Programming in Go](http://www.golang-book.com/books/intro)、[PDF Version](http://www.golang-book.com/public/pdf/gobook.pdf)
 - [Go Bootcamp](http://www.golangbootcamp.com/book)、[PDF Version](https://www.softcover.io/download/88e295ad/GoBootcamp/ebooks/GoBootcamp.pdf)
 - [Learning Go](https://www.miek.nl/go/)、[Markdown Version](https://github.com/miekg/learninggo)
