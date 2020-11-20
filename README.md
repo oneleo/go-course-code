@@ -93,6 +93,7 @@
 - [從範本創建專案結構](https://github.com/tmrts/boilr)
 - [Go talks](https://talks.golang.org/)、[Github](https://github.com/golang/talks)
 - [Practice Problem Solving in Golang](https://shareablecode.com/browse/tags/golang+codingchallenge)
+- [Let's talk about Golang](https://www.facebook.com/programmingHero/posts/1242197752809521)
 
 ## Resource: Free Video Course Link:
 - [【韓順平】Go語言零基礎教程](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFWlwItS-iI3C-4jeARUNjq)
