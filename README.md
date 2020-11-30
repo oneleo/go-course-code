@@ -9,6 +9,7 @@
 - [Udemy - Go: The Complete Developer's Guide](https://github.com/StephenGrider/GoCasts)
 - [GoesToEleven/golang-web-dev](https://github.com/GoesToEleven/golang-web-dev)
 - [gshanbhag525/GoProgramming](https://github.com/gshanbhag525/GoProgramming)、[Youtube](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)
+- [go-training/workshop-20201125](https://github.com/go-training/workshop-20201125)
 - [go-training/workshop-20201111](https://github.com/go-training/workshop-20201111)
 - [go-training/workshop-20200817](https://github.com/go-training/workshop-20200817)
 - [go-training/workshop-20200831](https://github.com/go-training/workshop-20200831)
@@ -21,6 +22,7 @@
 - [The Go Programming Language](https://github.com/adonovan/gopl.io/)
 - [Go 語言高級編程](https://github.com/chai2010/advanced-go-programming-book)
 - [Programming in Go: Creating Applications for the 21st Century](https://github.com/misheska/goeg)
+- [Go 語言機器學習實戰](https://github.com/PacktPublishing/Go-Machine-Learning-Projects)
 
 ## Go Ebook Code
 - [Learn-Go-in-3-Hours](https://github.com/PacktPublishing/Learn-Go-in-3-Hours)
