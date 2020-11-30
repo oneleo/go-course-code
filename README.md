@@ -65,6 +65,7 @@
 - [programming-book-2](https://github.com/EvanLi/programming-book-2/tree/master/Go)
 - [Get Programming with Go（Go 語言趣學指南）](https://livebook.manning.com/book/get-programming-with-go)、[Introduction](https://www.manning.com/books/get-programming-with-go)、[Code in Github](https://github.com/nathany/get-programming-with-go)、[Code in Zip](https://manning-content.s3.amazonaws.com/download/b/a77fb71-15e9-4397-b239-435c5afa7b43/get-programming-with-go-master.zip)
 - [2019/11/30 - All Design Patterns in Go（Golang）](https://golangbyexample.com/all-design-patterns-golang/)
+- [良葛格學習筆記 - 語言技術：Go 語言](https://openhome.cc/Gossip/Go/)
 
 ## Resource: Golang Resources
 - [*Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
