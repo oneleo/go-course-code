@@ -100,6 +100,7 @@
 - [go-interview](https://github.com/shomali11/go-interview)
 
 ## Resource: Free Video Course Link:
+- [Udemy](https://www.udemy.com/courses/search/?price=price-free&src=ukw&q=golang)
 - [【韓順平】Go語言零基礎教程](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFWlwItS-iI3C-4jeARUNjq)
 - [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
 - [Go 編程基礎](https://github.com/Unknwon/go-fundamental-programming)
