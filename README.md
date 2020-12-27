@@ -44,7 +44,7 @@
 - [Go Recipes](https://github.com/apress/go-recipes)
 - [Network Programming with Go](https://github.com/apress/network-prog-with-go)
 
-## Resource: Free Books
+## Resource: Free Books or Free Courses
 - [Go 編程模式](https://coolshell.cn/articles/series/go编程模式)
 - [Go 語言官方教學](https://tour.golang.org/list)
 - [*Golang Developer Roadmap](https://gopherlabs.kubedaily.com/)、[Github](https://github.com/sangam14/GopherLabs)
@@ -70,12 +70,14 @@
 - [2019/11/30 - All Design Patterns in Go（Golang）](https://golangbyexample.com/all-design-patterns-golang/)
 - [良葛格學習筆記 - 語言技術：Go 語言](https://openhome.cc/Gossip/Go/)
 - [Go 101](https://go101.org/article/101.html)
+- [Distributed Systems in Go（MIT 課程）](http://nil.csail.mit.edu/6.824/2016/schedule.html)、[中文翻譯](https://github.com/feixiao/Distributed-Systems)
 
 ## Resource: Golang Resources
 - [*Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
 - [*李培冠博客 - Golang 系列筆記目錄](https://lpgit.com/p/115)
 - [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
 - [awesome-go](https://github.com/avelino/awesome-go)
+- [Youtube - Gopher Academy](https://www.youtube.com/c/GopherAcademy/playlists)
 - [Go 資源大全中文版](https://github.com/jobbole/awesome-go-cn)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#go)
 - [Go 夜讀](https://github.com/talkgo/night)
@@ -90,7 +92,6 @@
 - [小惡魔 – 電腦技術 – 工作筆記 – AppleBOY](https://blog.wu-boy.com/)
 - [Blog E - Evan Lin](http://www.evanlin.com/)
 - [Go In 5 Minutes](https://www.goin5minutes.com/screencasts/)
-- [Gopher Academy](https://www.youtube.com/c/GopherAcademy)
 - [飛雪無情的博客](https://www.flysnow.org/)
 - [Go 語言中文網](https://studygolang.com/)
 - [SegmentFault 社區 - Golang](https://segmentfault.com/t/golang)
