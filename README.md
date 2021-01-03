@@ -112,6 +112,7 @@
 - [Go 名庫講解](https://github.com/Unknwon/go-rock-libraries-showcases)
 - [Learn Go Programming - Golang Tutorial for Beginners](https://youtu.be/YS4e4q9oBaU)
 - [Golang: How to create a JWT authenticated REST APIs with Golang](https://www.youtube.com/playlist?list=PLiCVMw2RdtGcZt0bTRHxxUyTbJ8JR_i7y)
+- [Tutorialedge](https://www.youtube.com/c/Tutorialedge/playlists)
 
 ## Resource: Go Playground
 - [Go 官方 Playground](https://play.golang.org/)
