@@ -45,6 +45,7 @@
 - [Network Programming with Go](https://github.com/apress/network-prog-with-go)
 
 ## Resource: Free Books or Free Courses
+- [Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 - [A Huge Number of Go Examples, Exercises and Quizzes](https://github.com/inancgumus/learngo)
 - [Go 編程模式](https://coolshell.cn/articles/series/go编程模式)
 - [A Tour of Go](https://tour.golang.org/list)
