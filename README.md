@@ -45,8 +45,11 @@
 - [Network Programming with Go](https://github.com/apress/network-prog-with-go)
 
 ## Resource: Free Books or Free Courses
+- [A Huge Number of Go Examples, Exercises and Quizzes](https://github.com/inancgumus/learngo)
 - [Go 編程模式](https://coolshell.cn/articles/series/go编程模式)
-- [Go 語言官方教學](https://tour.golang.org/list)
+- [A Tour of Go](https://tour.golang.org/list)
+- [A Tour of Go - 簡中](https://tour.go-zh.org/)
+- [Go Mastery](https://qvault.io/go-mastery-course/)
 - [*Golang Developer Roadmap](https://gopherlabs.kubedaily.com/)、[Github](https://github.com/sangam14/GopherLabs)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)、[正體中文版](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh-tw/preface.md)、[保哥講解](https://willh.gitbook.io/build-web-application-with-golang-zhtw/)
 - [Go 語言參考手冊](https://github.com/saberuster/Go-Language-Specification)
@@ -77,7 +80,9 @@
 - [*Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
 - [*李培冠博客 - Golang 系列筆記目錄](https://lpgit.com/p/115)
 - [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
-- [awesome-go](https://github.com/avelino/awesome-go)
+- [Awesome Go](https://awesome-go.com/)、[Github](https://github.com/avelino/awesome-go)
+- [Awesome Go but with stars](https://github.com/amanbolat/awesome-go-with-stars)
+- [Effective Go](https://golang.org/doc/effective_go.html)
 - [Youtube - Gopher Academy](https://www.youtube.com/c/GopherAcademy/playlists)
 - [Go 資源大全中文版](https://github.com/jobbole/awesome-go-cn)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#go)
@@ -113,6 +118,7 @@
 - [Learn Go Programming - Golang Tutorial for Beginners](https://youtu.be/YS4e4q9oBaU)
 - [Golang: How to create a JWT authenticated REST APIs with Golang](https://www.youtube.com/playlist?list=PLiCVMw2RdtGcZt0bTRHxxUyTbJ8JR_i7y)
 - [Tutorialedge](https://www.youtube.com/c/Tutorialedge/playlists)
+- [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 
 ## Resource: Go Playground
 - [Go 官方 Playground](https://play.golang.org/)
