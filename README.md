@@ -25,6 +25,7 @@
 - [Go 語言機器學習實戰](https://github.com/PacktPublishing/Go-Machine-Learning-Projects)
 
 ## Go Ebook Code
+- [Machine-Learning-With-Go-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-With-Go-Second-Edition)
 - [Learn-Go-in-3-Hours](https://github.com/PacktPublishing/Learn-Go-in-3-Hours)
 - [Machine-Learning-With-Go](https://github.com/PacktPublishing/Machine-Learning-With-Go)
 - [Mastering-Go](https://github.com/PacktPublishing/Mastering-Go)
