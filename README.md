@@ -27,7 +27,7 @@
 ## Go Ebook Code
 - [Go-Machine-Learning-Projects](https://github.com/PacktPublishing/Go-Machine-Learning-Projects)
 - [get-programming-with-go](https://github.com/nathany/get-programming-with-go)
-- [Learning-Functional-Programming-in-Go](https://github.com/PacktPublishing/Learning-Functional-Programming-in-Go)、[13X](https://github.com/13X)
+- [Learning-Functional-Programming-in-Go](https://github.com/PacktPublishing/Learning-Functional-Programming-in-Go)、[13X](https://github.com/13X)、[Color Images](https://static.packt-cdn.com/downloads/LearningFunctionalProgramminginGo_ColorImages.pdf)
 - [Machine-Learning-With-Go-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-With-Go-Second-Edition)
 - [Learn-Go-in-3-Hours](https://github.com/PacktPublishing/Learn-Go-in-3-Hours)
 - [Machine-Learning-With-Go](https://github.com/PacktPublishing/Machine-Learning-With-Go)
