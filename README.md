@@ -113,6 +113,9 @@
 - [go-interview](https://github.com/shomali11/go-interview)
 
 ## Resource: Free Video Course Link:
+- [Introduction to GoLang | GoLang Tutorial | GoLang Tutorial for beginners](https://www.youtube.com/playlist?list=PL8-bdB4cHmXxvf8WiYep1aQCpTjcmHu1L)
+- [Rest API in Golang using Gin Gonic](https://www.youtube.com/playlist?list=PL8-bdB4cHmXynirCIPtW0G5mCnaoMfr5u)
+- [Golang Tutorials](https://www.youtube.com/playlist?list=PLnhcQHG_PcWNOp6FPuUmiW694-pC8wFeg)
 - [Udemy](https://www.udemy.com/courses/search/?price=price-free&src=ukw&q=golang)
 - [【韓順平】Go語言零基礎教程](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFWlwItS-iI3C-4jeARUNjq)
 - [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
