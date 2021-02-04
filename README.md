@@ -52,8 +52,7 @@
 - [Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 - [A Huge Number of Go Examples, Exercises and Quizzes](https://github.com/inancgumus/learngo)
 - [Go 編程模式](https://coolshell.cn/articles/series/go编程模式)
-- [A Tour of Go](https://tour.golang.org/list)
-- [A Tour of Go - 簡中](https://tour.go-zh.org/)
+- [*A Tour of Go](https://tour.golang.org/list)、[簡中版](https://tour.go-zh.org/)
 - [Go Mastery](https://qvault.io/go-mastery-course/)
 - [*Golang Developer Roadmap](https://gopherlabs.kubedaily.com/)、[Github](https://github.com/sangam14/GopherLabs)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)、[正體中文版](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh-tw/preface.md)、[保哥講解](https://willh.gitbook.io/build-web-application-with-golang-zhtw/)
@@ -126,8 +125,13 @@
 - [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 
 ## Resource: Go Playground
-- [Go 官方 Playground](https://play.golang.org/)
-- [gpgsync](https://gpgsync.herokuapp.com/)、[Source Code](https://github.com/syumai/gpgsync)、[Source Code 2](https://github.com/syumai/go-playground-custom)
-- [goplay](https://goplay.tools/)、[Source Code](https://github.com/x1unix/go-playground)
-- [goplay.space](https://goplay.space)
-- [go-wasm](https://go-wasm.johnstarich.com/)
+- [Playground](https://play.golang.org/)：Go 官方、[大陸備份站](https://play.studygolang.com)
+    - 分享格式：`https://play.golang.org/p/xXxXxXxXxXx`
+- [goplay](https://goplay.tools/)：第三方（底層使用官方）、[Github](https://github.com/x1unix/go-playground)
+    - 分享格式：`https://goplay.tools/snippet/xXxXxXxXxXx`
+- [The Go Play Space](https://goplay.space)：第三方（底層使用官方）、[Github](https://github.com/iafan/goplayspace)
+    - 分享格式：`https://goplay.space/#xXxXxXxXxXx`
+- [go-playground-custom](https://play.golang.org/)：第三方（底層使用官方）、[Github](https://github.com/syumai/go-playground-custom)
+    - 分享格式：`https://goplay.syumai.dev/?p=xXxXxXxXxXx`
+- [gpgsync](https://gpgsync.herokuapp.com/)：可多人協作（底層使用官方）、[Github](https://github.com/syumai/gpgsync)
+- [go-wasm](https://go-wasm.johnstarich.com/)：使用 WASM 建置、[Github](https://github.com/johnstarich/go-wasm)
