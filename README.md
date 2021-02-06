@@ -82,6 +82,7 @@
 
 ## Resource: Golang Resources
 - [*Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
+- [*Go 社區文檔](https://learnku.com/go/docs)
 - [*李培冠博客 - Golang 系列筆記目錄](https://lpgit.com/p/115)
 - [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
 - [Awesome Go](https://awesome-go.com/)、[Github](https://github.com/avelino/awesome-go)
@@ -111,6 +112,8 @@
 - [Practice Problem Solving in Golang](https://shareablecode.com/browse/tags/golang+codingchallenge)
 - [Let's talk about Golang](https://www.facebook.com/programmingHero/posts/1242197752809521)
 - [go-interview](https://github.com/shomali11/go-interview)
+- [Go Blog 中文翻譯](https://learnku.com/docs/go-blog)
+- [官方《Effective Go》中文翻譯](https://learnku.com/docs/effective-go/2020)
 
 ## Resource: Free Video Course Link:
 - [Introduction to GoLang | GoLang Tutorial | GoLang Tutorial for beginners](https://www.youtube.com/playlist?list=PL8-bdB4cHmXxvf8WiYep1aQCpTjcmHu1L)
