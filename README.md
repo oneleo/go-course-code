@@ -130,6 +130,7 @@
 - [Golang: How to create a JWT authenticated REST APIs with Golang](https://www.youtube.com/playlist?list=PLiCVMw2RdtGcZt0bTRHxxUyTbJ8JR_i7y)
 - [Tutorialedge](https://www.youtube.com/c/Tutorialedge/playlists)
 - [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
+- [Go4DataScience](https://www.youtube.com/playlist?list=PLJ39kWiJXSiyuSkaDJxx1JK1kfpreDNDf)
 
 ## Resource: Go Playground
 - [Playground](https://play.golang.org/)：Go 官方、[大陸備份站](https://play.studygolang.com)
