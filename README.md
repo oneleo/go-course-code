@@ -25,6 +25,7 @@
 - [Go 語言機器學習實戰](https://github.com/PacktPublishing/Go-Machine-Learning-Projects)
 
 ## Go Ebook Code
+- [Packt's Book Code](https://github.com/PacktPublishing?language=go)
 - [Go-Machine-Learning-Projects](https://github.com/PacktPublishing/Go-Machine-Learning-Projects)
 - [get-programming-with-go](https://github.com/nathany/get-programming-with-go)
 - [Learning-Functional-Programming-in-Go](https://github.com/PacktPublishing/Learning-Functional-Programming-in-Go)、[13X](https://github.com/13X)、[Color Images](https://static.packt-cdn.com/downloads/LearningFunctionalProgramminginGo_ColorImages.pdf)
