@@ -50,8 +50,9 @@
 - [Network Programming with Go](https://github.com/apress/network-prog-with-go)
 
 ## Resource: Free Books or Free Courses
+- [*Practical Go Lessons](https://www.practical-go-lessons.com/)
 - [Go 語言編程之旅](https://golang2.eddycjy.com/)
-- [*微軟課程 - Take your first steps with Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)
+- [*微軟 Microsoft課程 - Take your first steps with Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)、[正體中文版](https://docs.microsoft.com/zh-tw/learn/paths/go-first-steps/)
 - [Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 - [A Huge Number of Go Examples, Exercises and Quizzes](https://github.com/inancgumus/learngo)
 - [Go 編程模式](https://coolshell.cn/articles/series/go编程模式)
