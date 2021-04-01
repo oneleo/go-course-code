@@ -147,3 +147,7 @@
     - 分享格式：`https://goplay.syumai.dev/?p=xXxXxXxXxXx`
 - [gpgsync](https://gpgsync.herokuapp.com/)：可多人協作（底層使用官方）、[Github](https://github.com/syumai/gpgsync)
 - [go-wasm](https://go-wasm.johnstarich.com/)：使用 WASM 建置、[Github](https://github.com/johnstarich/go-wasm)
+
+## Go Repositories Search
+- [Awesome Go Repositories](https://golangrepo.com/)
+- [Go applications and libraries](https://libs.garden/go)
