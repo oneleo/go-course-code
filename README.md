@@ -51,6 +51,7 @@
 
 ## Resource: Free Books or Free Courses
 - [*Practical Go Lessons](https://www.practical-go-lessons.com/)
+- [*The Ultimate Go Notebook](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/edit#heading=h.8mjv9ebaujcs)
 - [Go 語言編程之旅](https://golang2.eddycjy.com/)
 - [*微軟 Microsoft課程 - Take your first steps with Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)、[正體中文版](https://docs.microsoft.com/zh-tw/learn/paths/go-first-steps/)
 - [Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
