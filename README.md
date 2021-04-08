@@ -122,6 +122,7 @@
 - [官方《Effective Go》中文翻譯](https://learnku.com/docs/effective-go/2020)
 
 ## Resource: Free Video Course Link:
+- [Esoteric Tech](https://www.youtube.com/channel/UCg_k6DwjEs1wj4DngmxDSGQ)
 - [Introduction to GoLang | GoLang Tutorial | GoLang Tutorial for beginners](https://www.youtube.com/playlist?list=PL8-bdB4cHmXxvf8WiYep1aQCpTjcmHu1L)
 - [Rest API in Golang using Gin Gonic](https://www.youtube.com/playlist?list=PL8-bdB4cHmXynirCIPtW0G5mCnaoMfr5u)
 - [Golang Tutorials](https://www.youtube.com/playlist?list=PLnhcQHG_PcWNOp6FPuUmiW694-pC8wFeg)
