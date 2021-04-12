@@ -120,6 +120,7 @@
 - [go-interview](https://github.com/shomali11/go-interview)
 - [Go Blog 中文翻譯](https://learnku.com/docs/go-blog)
 - [官方《Effective Go》中文翻譯](https://learnku.com/docs/effective-go/2020)
+- [The Evolution of a Go Programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
 
 ## Resource: Free Video Course Link:
 - [Esoteric Tech](https://www.youtube.com/channel/UCg_k6DwjEs1wj4DngmxDSGQ)
