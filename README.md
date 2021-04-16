@@ -88,8 +88,9 @@
 
 ## Resource: Golang Resources
 - [*Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
-- [*Go 社區文檔](https://learnku.com/go/docs)
-- [*李培冠博客 - Golang 系列筆記目錄](https://lpgit.com/p/115)
+- [*LearnGolang（另一個資源收集倉庫）](https://github.com/0e0w/LearnGolang)
+- [Go 社區文檔](https://learnku.com/go/docs)
+- [李培冠博客 - Golang 系列筆記目錄](https://lpgit.com/p/115)
 - [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
 - [Awesome Go](https://awesome-go.com/)、[Github](https://github.com/avelino/awesome-go)
 - [Awesome Go but with stars](https://github.com/amanbolat/awesome-go-with-stars)
