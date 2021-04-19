@@ -124,6 +124,7 @@
 - [The Evolution of a Go Programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
 
 ## Resource: Free Video Course Link:
+- [Go Programming Tutorial](https://www.youtube.com/playlist?list=PL7yh-TELLS1FRTABHY972IpZR73rqEL5j)
 - [Esoteric Tech](https://www.youtube.com/channel/UCg_k6DwjEs1wj4DngmxDSGQ)
 - [Introduction to GoLang | GoLang Tutorial | GoLang Tutorial for beginners](https://www.youtube.com/playlist?list=PL8-bdB4cHmXxvf8WiYep1aQCpTjcmHu1L)
 - [Rest API in Golang using Gin Gonic](https://www.youtube.com/playlist?list=PL8-bdB4cHmXynirCIPtW0G5mCnaoMfr5u)
