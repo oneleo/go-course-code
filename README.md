@@ -85,7 +85,7 @@
 - [Distributed Systems in Go（MIT 課程）](http://nil.csail.mit.edu/6.824/2016/schedule.html)、[中文翻譯](https://github.com/feixiao/Distributed-Systems)
 - [Golang cheatsheet](https://quickref.me/golang)
 - [Go 語言教程](https://www.runoob.com/go/go-tutorial.html)
-- [Golang, Domain-Driven Design and Continuous Delivery（需訂閱）](https://threedots.tech/newsletter/)
+- [Golang, Domain-Driven Design and Continuous Delivery（需訂閱）](https://threedots.tech/newsletter/)、[使用 Irara 名稱訂閱之 PDF](https://tech.us4.list-manage.com/track/click?u=62423c44a121dd21470199c03&id=0e5c0331ff&e=e89adadbcf)
 
 ## Resource: Golang Resources
 - [*Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
