@@ -52,12 +52,12 @@
 ## Resource: Free Books or Free Courses
 - [*Practical Go Lessons](https://www.practical-go-lessons.com/)
 - [*The Ultimate Go Notebook](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/edit#heading=h.8mjv9ebaujcs)
-- [Go 語言編程之旅](https://golang2.eddycjy.com/)
+- [*A Tour of Go](https://tour.golang.org/list)、[簡中版](https://tour.go-zh.org/)
 - [*微軟 Microsoft課程 - Take your first steps with Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)、[正體中文版](https://docs.microsoft.com/zh-tw/learn/paths/go-first-steps/)
+- [Go 語言編程之旅](https://golang2.eddycjy.com/)
 - [Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 - [A Huge Number of Go Examples, Exercises and Quizzes](https://github.com/inancgumus/learngo)
 - [Go 編程模式](https://coolshell.cn/articles/series/go编程模式)
-- [*A Tour of Go](https://tour.golang.org/list)、[簡中版](https://tour.go-zh.org/)
 - [Go Mastery](https://qvault.io/go-mastery-course/)
 - [*Golang Developer Roadmap](https://gopherlabs.kubedaily.com/)、[Github](https://github.com/sangam14/GopherLabs)
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)、[正體中文版](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh-tw/preface.md)、[保哥講解](https://willh.gitbook.io/build-web-application-with-golang-zhtw/)
@@ -85,6 +85,7 @@
 - [Distributed Systems in Go（MIT 課程）](http://nil.csail.mit.edu/6.824/2016/schedule.html)、[中文翻譯](https://github.com/feixiao/Distributed-Systems)
 - [Golang cheatsheet](https://quickref.me/golang)
 - [Go 語言教程](https://www.runoob.com/go/go-tutorial.html)
+- [Golang, Domain-Driven Design and Continuous Delivery（需訂閱）](https://threedots.tech/newsletter/)
 
 ## Resource: Golang Resources
 - [*Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
@@ -124,12 +125,14 @@
 - [The Evolution of a Go Programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
 
 ## Resource: Free Video Course Link:
+- [Udemy](https://www.udemy.com/courses/search/?price=price-free&src=ukw&q=golang)
+- [Udemy 限免](https://vip.studycamp.tw/search?q=golang)
+- [learn go under one hour](https://youtu.be/N0fIANJkwic)
 - [Go Programming Tutorial](https://www.youtube.com/playlist?list=PL7yh-TELLS1FRTABHY972IpZR73rqEL5j)
 - [Esoteric Tech](https://www.youtube.com/channel/UCg_k6DwjEs1wj4DngmxDSGQ)
 - [Introduction to GoLang | GoLang Tutorial | GoLang Tutorial for beginners](https://www.youtube.com/playlist?list=PL8-bdB4cHmXxvf8WiYep1aQCpTjcmHu1L)
 - [Rest API in Golang using Gin Gonic](https://www.youtube.com/playlist?list=PL8-bdB4cHmXynirCIPtW0G5mCnaoMfr5u)
 - [Golang Tutorials](https://www.youtube.com/playlist?list=PLnhcQHG_PcWNOp6FPuUmiW694-pC8wFeg)
-- [Udemy](https://www.udemy.com/courses/search/?price=price-free&src=ukw&q=golang)
 - [【韓順平】Go語言零基礎教程](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFWlwItS-iI3C-4jeARUNjq)
 - [Learn To Code - Golang Training](https://www.youtube.com/playlist?list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
 - [Go 編程基礎](https://github.com/Unknwon/go-fundamental-programming)
