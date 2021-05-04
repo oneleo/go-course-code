@@ -90,6 +90,7 @@
 ## Resource: Golang Resources
 - [*Go 語言愛好者週刊](https://github.com/polaris1119/golangweekly)
 - [*LearnGolang（另一個資源收集倉庫）](https://github.com/0e0w/LearnGolang)
+- [Go 語言的最佳實踐](https://github.com/cristaloleg/go-advice)、[簡中版](https://github.com/cristaloleg/go-advice/blob/master/README_ZH.md)
 - [Go 社區文檔](https://learnku.com/go/docs)
 - [李培冠博客 - Golang 系列筆記目錄](https://lpgit.com/p/115)
 - [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
