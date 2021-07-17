@@ -54,6 +54,7 @@
 - [*The Ultimate Go Notebook](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/edit#heading=h.8mjv9ebaujcs)
 - [*A Tour of Go](https://tour.golang.org/list)、[簡中版](https://tour.go-zh.org/)
 - [*微軟 Microsoft課程 - Take your first steps with Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)、[正體中文版](https://docs.microsoft.com/zh-tw/learn/paths/go-first-steps/)
+- [gardukoding](https://gardukoding.blogspot.com/p/golang.html)
 - [透過 Go 語言學習測試驅動開發](https://github.com/quii/learn-go-with-tests)、[簡中版](https://studygolang.gitbook.io/learn-go-with-tests/)
 - [gotraining-studyguide](https://github.com/ardanlabs/gotraining-studyguide)
 - [Go 語言編程之旅](https://golang2.eddycjy.com/)
