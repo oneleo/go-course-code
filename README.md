@@ -150,6 +150,7 @@
 - [Tutorialedge](https://www.youtube.com/c/Tutorialedge/playlists)
 - [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 - [Go4DataScience](https://www.youtube.com/playlist?list=PLJ39kWiJXSiyuSkaDJxx1JK1kfpreDNDf)
+- [*Golang Development](https://www.youtube.com/watch?v=HmiybuiEZI4&list=PLIjdNHWULhPTcNw2gHVSL9W3YtE2vd_SH)
 
 ## Resource: Go Playground
 - [Playground](https://play.golang.org/)：Go 官方、[大陸備份站](https://play.studygolang.com)
