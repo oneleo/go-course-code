@@ -50,6 +50,7 @@
 - [Network Programming with Go](https://github.com/apress/network-prog-with-go)
 
 ## Resource: Free Books or Free Courses
+- [萬全空降 Golang 資料補給包](https://github.com/0voice/Introduction-to-Golang)
 - [*Practical Go Lessons](https://www.practical-go-lessons.com/)
 - [*The Ultimate Go Notebook](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/edit#heading=h.8mjv9ebaujcs)
 - [*A Tour of Go](https://tour.golang.org/list)、[簡中版](https://tour.go-zh.org/)
